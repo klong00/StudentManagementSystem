@@ -1,0 +1,2 @@
+# StudentManagementSystem
+basic project, CRUD
